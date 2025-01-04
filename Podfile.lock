@@ -1,0 +1,18 @@
+PODS:
+  - Ads-Global (6.4.1.0):
+    - Ads-Global/BUAdSDK (= 6.4.1.0)
+  - Ads-Global/BUAdSDK (6.4.1.0)
+
+DEPENDENCIES:
+  - Ads-Global
+
+SPEC REPOS:
+  trunk:
+    - Ads-Global
+
+SPEC CHECKSUMS:
+  Ads-Global: f5b4894e49f2f5362510ff59af4b3a11b044749d
+
+PODFILE CHECKSUM: f4a6526f1332285209b2289c1612a18b05ac57eb
+
+COCOAPODS: 1.16.2
